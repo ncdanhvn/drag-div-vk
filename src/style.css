@@ -1,7 +1,7 @@
 .wrapper {
   border: solid 2px black;
-  width: 550px;
-  height: 550px;
+  width: 600px;
+  height: 600px;
   position: relative;
 }
 
@@ -14,4 +14,5 @@
 
 .label {
   position: absolute;
+  cursor: move;
 }
