@@ -1,0 +1,17 @@
+.wrapper {
+  border: solid 2px black;
+  width: 550px;
+  height: 550px;
+  position: relative;
+}
+
+.drop-box {
+  width: 150px;
+  height: 150px;
+  background-color: grey;
+  color: coral;
+}
+
+.label {
+  position: absolute;
+}
